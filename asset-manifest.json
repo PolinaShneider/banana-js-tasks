@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/banana-js-tasks/static/css/main.078fd8ea.css",
+    "main.js": "/banana-js-tasks/static/js/main.02e6292b.js",
+    "static/js/787.ce24ed05.chunk.js": "/banana-js-tasks/static/js/787.ce24ed05.chunk.js",
+    "index.html": "/banana-js-tasks/index.html",
+    "main.078fd8ea.css.map": "/banana-js-tasks/static/css/main.078fd8ea.css.map",
+    "main.02e6292b.js.map": "/banana-js-tasks/static/js/main.02e6292b.js.map",
+    "787.ce24ed05.chunk.js.map": "/banana-js-tasks/static/js/787.ce24ed05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.078fd8ea.css",
+    "static/js/main.02e6292b.js"
+  ]
+}
